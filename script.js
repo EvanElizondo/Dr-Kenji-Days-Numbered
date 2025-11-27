@@ -1,4 +1,4 @@
-var target_mili_sec = new Date("January 7, 2026 11:59:59").getTime();
+var target_mili_sec = new Date("January 12, 2026 11:59:59").getTime();
         function timer(){
             var now_mili_sec = new Date().getTime();
             var difference = target_mili_sec - now_mili_sec;
